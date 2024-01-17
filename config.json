@@ -1,0 +1,8 @@
+{
+    "corrections": {
+      "RH4B-ULAC120V": "RH4B-ULAC120",
+      "RH2B-ULAC120V": "RH2B-ULAC120",
+      "TRM4.5": "TRM4-1/2"
+    },
+    "remove": ["3030271", "3240280", "801733", "K2A26U"]
+}
